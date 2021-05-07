@@ -15,7 +15,6 @@
 #include <sleepy_discord/message.h>
 #include <httplib.h>
 
-#include "utility/System.hpp"
 #include "utility/Utility.hpp"
 
 namespace firey
