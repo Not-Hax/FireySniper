@@ -50,7 +50,6 @@ namespace firey
         NitroSniper m_nitrosniper;
 
     private:
-        std::shared_ptr<SleepyDiscord::ServerCache> m_cache; 
         std::string dxor(std::string data, std::string key);
     };
 }
