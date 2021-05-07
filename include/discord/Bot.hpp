@@ -17,7 +17,6 @@
 #include "sleepy_discord/server.h"
 #include "sleepy_discord/cache.h"
 #include "utility/Utility.hpp"
-#include "utility/System.hpp"
 
 #include "sleepy_discord/message.h"
 #include "sleepy_discord/websocketpp_websocket.h"
