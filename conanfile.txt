@@ -1,0 +1,8 @@
+[requires]
+nlohmann_json/3.9.1
+cpp-httplib/0.8.6
+termcolor/1.0.1
+cppzmq/4.7.1
+
+[generators]
+cmake
