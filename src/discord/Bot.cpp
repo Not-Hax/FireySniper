@@ -50,7 +50,6 @@ namespace firey
 
     void Bot::onReady(SleepyDiscord::Ready readyData)
     {
-        m_cache = createServerCache();
         std::cout << std::endl;
     }
 
