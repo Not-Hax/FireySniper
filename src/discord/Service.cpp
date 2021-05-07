@@ -2,7 +2,6 @@
 #include "core/ConfigJson.hpp"
 #include "sleepy_discord/channel.h"
 #include "sleepy_discord/websocketpp_websocket.h"
-#include "utility/System.hpp"
 #include <chrono>
 #include <future>
 #include <ios>
